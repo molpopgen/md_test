@@ -10,5 +10,5 @@ header-includes: |
 
 See @Kelleher2018-fu, which is *so* **damn** _cool_.
 
-OMG MATH: $$\hat \theta_w = S\sum_{i=1}^{i=n-1}\frac{1}{i}$$.
+OMG MATH: $$\hat \theta_w = \frac{S}{\sum_{i=1}^{i=n-1}\frac{1}{i}}$$
 
