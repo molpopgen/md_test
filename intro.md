@@ -2,6 +2,8 @@
 title: Something about nothing
 author: Kevin Thornton
 bibliography: references.bib
+header-includes: |
+    \usepackage{fullpage}
 ---
 
 # Introduction {#sec:boo}
